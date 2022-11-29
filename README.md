@@ -3,8 +3,17 @@
 ## Learning Goals
 
 - Explain what a cookie is and what cookies can be used for
+    * Cookies are small pieces of information that are sent from the derver to the client
+    * help make stateful HTTP requests 
+    * provides  a mechanism for sending additional info to the server with each request
 - Identify how cookies are part of the request/response cycle
+     * they are Domain-specific i.e browser stores cookies for each domain
+     * 
 - Explain what a session is in Rails
+  - * used to store session information (user login, shopping card, etc)
+  - * personalization(user preferences, themes, etc)
+  - * tracking information(analyzing user behaviour)
+  - 
 
 ## Introduction
 
